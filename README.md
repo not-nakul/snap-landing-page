@@ -1,21 +1,8 @@
-# Frontend Mentor - Intro section with dropdown navigation solution
+# Intro section with navigation dropdowns
 
-This is a solution to the [Intro section with dropdown navigation challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5).
-
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-- [Author](#author)
+Simple landing page built using vanilla HTML, CSS and JS with navigation dropdown menus and a responsive layout.
 
 ## Overview
-
-### The challenge
 
 Users should be able to:
 
@@ -25,28 +12,12 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: ()
-
-## My process
+- Live Site URL: (https://landing-page-snap.netlify.app/)
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Flexbox
-- CSS Grid
 - Mobile-first workflow
 - JavaScript
-
-### What I learned
-
-tba
-
-### Continued development
-
-tba
-
-## Author
-
-- Website - [Nakul]()
-- Frontend Mentor - [@not-nakul]()
